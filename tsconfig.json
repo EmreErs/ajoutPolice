@@ -29,5 +29,12 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true
-  }
+  },
+
+  "application": "helloWorldFront",
+  "databaseName": "infotel",
+  "url": "http://localhost:3306/",
+  "login":"root",
+  "password":"",
+  "port": 5200
 }
